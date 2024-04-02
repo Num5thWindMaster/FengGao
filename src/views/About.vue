@@ -2,7 +2,7 @@
   <div>
     <AboutMe />
     <div class="centered">
-      <img src="/FengGao/img/xjrmyy3.jfif" alt="Image" align="center" height="250" width="600"/>
+      <img src="img/xjrmyy3.jfif" alt="Image" align="center" height="250" width="600"/>
     </div>
     <Contacts />
   </div>
