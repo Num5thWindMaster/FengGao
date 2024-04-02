@@ -4,7 +4,10 @@ const markdownItHlJs = require('markdown-it-highlightjs')
 const markdownItLA = require('markdown-it-link-attributes')
 
 module.exports = {
-  publicPath: '/FengGao/',
+  publicPath: './FengGao/',
+  // process.env.NODE_ENV === 'production'
+  // ? '/FengGao/'
+  // : '/',
   // publicPath: '/',
   configureWebpack: {
     module: {
