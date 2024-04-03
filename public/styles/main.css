@@ -142,3 +142,10 @@ blockquote {
 .container {
    text-align: justify;
 }
+ .home-left {
+   width: 800px;
+   margin-left: auto;
+   margin-right: auto;
+   text-align: left;
+   word-wrap: break-word;
+ }

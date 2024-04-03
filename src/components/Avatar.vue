@@ -1,6 +1,6 @@
 <template>
   <div :class="`${home ? 'avatar-home' : ''}`">
-    <vs-avatar :size="size" circle>
+    <vs-avatar :size="size" square>
       <img
         :src="config.avatarPath"
       >
