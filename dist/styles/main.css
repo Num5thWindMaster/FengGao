@@ -151,3 +151,8 @@ blockquote {
    word-wrap: break-word;
    line-height: 2;
  }
+ .banner {
+   width: 100%;
+   margin-top: 0;
+   height: 200px;
+ }
