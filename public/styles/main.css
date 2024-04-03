@@ -146,6 +146,7 @@ blockquote {
    width: 800px;
    margin-left: auto;
    margin-right: auto;
-   text-align: left;
+   text-align: justify;
    word-wrap: break-word;
+   line-height: 2;
  }

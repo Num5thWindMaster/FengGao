@@ -32,7 +32,7 @@
       <div>
         <p style="font-size: 1.5em;font-weight: bold">Feng Gao, Ph.D</p>
         <p>Address: People's Hospital of Xinjiang Uygur Autonomous Region, No. 91, Tianchi Road, Tianshan District, Urumqi 830001, Xinjiang, China.</p>
-        <p>Mobile: +86 13009698851</p>
+        <p>Mobile: +86-13009698851</p>
         <p>E-mail: gf8851@gmail.com</p>
       </div>
     </div>
