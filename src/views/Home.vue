@@ -1,5 +1,6 @@
 <template>
   <div>
+<!--    <img class="banner" src="img/xjrmyy0.jpg" style="margin-top: -100px">-->
     <div class="container">
       <div class="text-center">
         <div class="center">
@@ -18,7 +19,7 @@
         <p>B.S., Clinical Medicine, School of Medicine, Medical College of Soochow University,1987</p>
         <h2>About Dr. Gao</h2>
         <p>Feng Gao joined the Gastroenterology Department of the People's Hospital of Xinjiang Uygur Autonomous Region, engaging in frontline clinical work. He came to the People's Hospital of Xinjiang Uygur Autonomous Region from the Medical College of Soochow University.</p>
-        <p>He is a Distinguished Professor of Gastroenterology Department of the People's Hospital of Xinjiang Uygur Autonomous Region. He leads He led the establishment and development of the Gastroenterology Department's system at the People's Hospital of Xinjiang Uygur Autonomous Region. His expertise includes Complex and challenging digestive diseases, early-stage gastrointestinal tumors, therapeutic procedures under digestive endoscopy, celiac disease, inflammatory bowel disease. He was the first recipient from Xinjiang to receive the international endoscopy award "Endoscopy Prize - Digestive Endoscopy Award".</p>
+        <p>He is a Distinguished Professor of Gastroenterology Department of the People's Hospital of Xinjiang Uygur Autonomous Region. He leads the establishment and development of the Gastroenterology Department's system at the People's Hospital of Xinjiang Uygur Autonomous Region. His expertise includes Complex and challenging digestive diseases, early-stage gastrointestinal tumors, therapeutic procedures under digestive endoscopy, celiac disease, inflammatory bowel disease. He was the first recipient from Xinjiang to receive the international endoscopy award "Endoscopy Prize - Digestive Endoscopy Award".</p>
       </div>
 <!--      <h2>Latest Posts</h2>-->
       <hr/>
