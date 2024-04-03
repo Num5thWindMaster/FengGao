@@ -26,6 +26,9 @@ body, html {
 .container {
   margin-left: 50px;
   margin-right: 50px;
+  text-align: justify;
+  line-height: 2;
+
 }
 
 a {
@@ -139,9 +142,7 @@ blockquote {
     display: none !important;
   }
 }
-.container {
-   text-align: justify;
-}
+
  .home-left {
    width: 800px;
    margin-left: auto;
